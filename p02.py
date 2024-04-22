@@ -23,6 +23,6 @@ if(cont_anos == 1):
     print(f"Foi necessário {cont_anos} ano até a população A({int(pop_a)} habitantes) passar ou se igualar a população B({int(pop_b)} habitantes)")
 else:
     if(pop_a == pop_b):
-        print(f"Foram necessários {cont_anos} anos até a população A({int(pop_a)} habitantes) passar a população B({int(pop_b)} habitantes)")
+        print(f"Foram necessários {cont_anos} anos até a população A({int(pop_a)} habitantes) se igualar a população B({int(pop_b)} habitantes)")
     else:
         print(f"Foram necessários {cont_anos} anos até a população A({int(pop_a)} habitantes) passar a população B({int(pop_b)} habitantes)")
